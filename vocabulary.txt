@@ -22,7 +22,6 @@
 
 16. go - 去
 17. come - 来
-18. eat - 吃
 19. drink - 喝
 20. sleep - 睡觉
 21. walk - 走路
