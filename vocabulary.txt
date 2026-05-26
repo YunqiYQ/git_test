@@ -1,0 +1,73 @@
+# English Vocabulary - 英语词汇表
+
+## 基础词汇
+
+1. hello - 你好
+2. goodbye - 再见
+3. thank you - 谢谢
+4. please - 请
+5. sorry - 对不起
+6. yes - 是
+7. no - 不
+8. good - 好的
+9. bad - 坏的
+10. big - 大的
+11. small - 小的
+12. hot - 热的
+13. cold - 冷的
+14. fast - 快的
+15. slow - 慢的
+
+## 常用动词
+
+16. go - 去
+17. come - 来
+18. eat - 吃
+19. drink - 喝
+20. sleep - 睡觉
+21. walk - 走路
+22. run - 跑步
+23. read - 阅读
+24. write - 写
+25. speak - 说
+26. listen - 听
+27. look - 看
+28. think - 想
+29. know - 知道
+30. learn - 学习
+
+## 常用名词
+
+31. water - 水
+32. food - 食物
+33. house - 房子
+34. car - 汽车
+35. book - 书
+36. phone - 电话
+37. computer - 电脑
+38. time - 时间
+39. day - 天
+40. night - 夜晚
+41. morning - 早上
+42. afternoon - 下午
+43. evening - 晚上
+44. friend - 朋友
+45. family - 家庭
+
+## 常用形容词
+
+46. happy - 快乐的
+47. sad - 悲伤的
+48. angry - 生气的
+49. tired - 疲倦的
+50. hungry - 饥饿的
+51. thirsty - 口渴的
+52. beautiful - 美丽的
+53. ugly - 丑陋的
+54. new - 新的
+55. old - 旧的
+56. easy - 容易的
+57. difficult - 困难的
+58. important - 重要的
+59. interesting - 有趣的
+60. boring - 无聊的
